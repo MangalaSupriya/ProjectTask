@@ -1,0 +1,22 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.bitcoin-price, .tradingview-chart, .trending-coins, .you-may-like {
+    margin-bottom: 30px;
+}
+
+.bitcoin-price, .trending-coins {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.carousel {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+
